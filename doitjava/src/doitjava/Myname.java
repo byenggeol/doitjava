@@ -24,6 +24,21 @@ public class Myname {
 		// TODO Auto-generated method stub
 		System.out.println("제 이름은 황병걸입니다."); //화면 출력 코드
 		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+//		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+//		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
+//		System.out.println("지금은 학생입니다."); // 둘째 줄의 출력 코드
 	}
 	/*
 	 * 첫 수업 시간에 작성한 코드 입니다.
