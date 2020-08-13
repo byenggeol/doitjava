@@ -14,6 +14,7 @@ public static void main(String[] args) {
 		hp = 10500;
 		System.out.println("현재 체력 게이지는 얼마인가요?");
 		System.out.println(hp);
+		long level1 = 10000;
 		
 		
 
